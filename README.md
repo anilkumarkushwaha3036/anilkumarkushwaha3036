@@ -1,16 +1,86 @@
-## Hi there 👋
+# 👋 Hi, I’m Anil Kumar Kushwaha
 
-<!--
-**anilkumarkushwaha3036/anilkumarkushwaha3036** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🚀 Full Stack Developer | Problem Solver | CS Student
 
-Here are some ideas to get you started:
+I’m a passionate **Full Stack Developer** who enjoys building **real-world, scalable web & mobile applications**.
+I focus on writing clean code, learning new technologies, and solving practical problems through software.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🧠 About Me
+
+* 💻 Full Stack Web Development (MERN-style backend focus)
+* 📱 Cross-platform Mobile App Development with **Flutter**
+* 🧩 Strong in **Data Structures & Algorithms (C++)**
+* 🌱 Constantly exploring new technologies & tools
+* 📚 Love reading books & listening to audiobooks for continuous learning
+
+---
+
+## 🛠️ Tech Stack
+
+### 👨‍💻 Programming & CS Fundamentals
+
+<p>
+  <img src="https://skillicons.dev/icons?i=cpp,js,dart" />
+</p>
+
+### 🌐 Web & Backend Development
+
+<p>
+  <img src="https://skillicons.dev/icons?i=react,html,css,nodejs,express,mongodb" />
+</p>
+
+### 📱 Mobile Development
+
+<p>
+  <img src="https://skillicons.dev/icons?i=flutter" />
+</p>
+
+### 🧰 Tools & Platforms
+
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,linux,figma" />
+</p>
+
+---
+
+## 🚀 Projects
+
+* 🌾 **Kisan Sewa** – Online Agricultural Services Booking Platform (Web + Flutter App)
+* 📚 **EduHub** – Curated Online Learning Resource Platform for CS Students
+
+👉 Check pinned repositories below 👇
+
+---
+
+## 🏆 Achievements
+
+* 🥉 3rd Prize – **SIH Internal Hackathon**
+* 🥉 3rd Prize – **CodeManthon TechFest, UIT RGPV Shivpuri**
+
+---
+
+## 📈 GitHub Stats
+
+<p>
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight" height="160"/>
+</p>
+
+---
+
+## 🤝 Let’s Connect
+
+<p>
+  <a href="https://github.com/YOUR_USERNAME">
+    <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github"/>
+  </a>
+  <a href="https://www.linkedin.com/in/YOUR_LINKEDIN">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
+  </a>
+</p>
+
+---
+
+### ⭐ If you like my work, consider starring my repositories!
