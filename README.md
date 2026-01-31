@@ -43,21 +43,6 @@ I focus on writing clean code, learning new technologies, and solving practical 
 
 ---
 
-## 🚀 Projects
-
-* 🌾 **Kisan Sewa** – Online Agricultural Services Booking Platform (Web + Flutter App)
-* 📚 **EduHub** – Curated Online Learning Resource Platform for CS Students
-
-👉 Check pinned repositories below 👇
-
----
-
-## 🏆 Achievements
-
-* 🥉 3rd Prize – **SIH Internal Hackathon**
-* 🥉 3rd Prize – **CodeManthon TechFest, UIT RGPV Shivpuri**
-
----
 
 ## 📈 GitHub Stats
 
@@ -71,10 +56,10 @@ I focus on writing clean code, learning new technologies, and solving practical 
 ## 🤝 Let’s Connect
 
 <p>
-  <a href="https://github.com/YOUR_USERNAME">
+  <a href="https://github.com/anilkumarkushwaha3036">
     <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github"/>
   </a>
-  <a href="https://www.linkedin.com/in/YOUR_LINKEDIN">
+  <a href="https://www.linkedin.com/in/coderanilkumar/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
   </a>
 </p>
