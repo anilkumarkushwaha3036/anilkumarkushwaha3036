@@ -11,10 +11,8 @@ I focus on writing clean code, learning new technologies, and solving practical 
 
 * 💻 Full Stack Web Development (MERN-style backend focus)
 * 📱 Cross-platform Mobile App Development with **Flutter**
-* 🧩 Strong in **Data Structures & Algorithms (C++)**
+* 🧩 Good in **Data Structures & Algorithms (C++)**
 * 🌱 Constantly exploring new technologies & tools
-* 📚 Love reading books & listening to audiobooks for continuous learning
-
 ---
 
 ## 🛠️ Tech Stack
